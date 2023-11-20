@@ -1,6 +1,6 @@
 # Pull base pythin image
 
-FROM python:3 
+FROM python:3.9-slim
 
 # set working directory in the container
 
